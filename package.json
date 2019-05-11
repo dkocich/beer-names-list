@@ -1,0 +1,16 @@
+{
+  "name": "beer-names-list",
+  "version": "0.0.1",
+  "description": "Just a list of names with beer brands...",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/eslint **.js",
+    "lint": "./node_modules/.bin/eslint **.js --fix"
+  },
+  "author": "dkocich@users.noreply.github.com",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-google": "^0.12.0"
+  }
+}
