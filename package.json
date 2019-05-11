@@ -1,6 +1,6 @@
 {
   "name": "beer-names-list",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Just a list of names with beer brands...",
   "main": "index.js",
   "scripts": {
